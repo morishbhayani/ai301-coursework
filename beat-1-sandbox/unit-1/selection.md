@@ -94,11 +94,11 @@ svg
 2. `agreement: 0/1 scored items`
 3. `agreement: 0/1 scored items`
 4. `agreement: 1/1 scored items`
-5. `agreement: 18/20 scored items`
-6. `agreement: 17/20 scored items`
+5. `agreement: 18/20 scored items  (bar: 18/20: PASS)`
+6. `agreement: 17/20 scored items  (bar: 18/20: below the bar)`
 7. `agreement: 1/1 scored items`
 8. `agreement: 1/1 scored items`
-9. `agreement: 18/20 scored items`
+9. `agreement: 18/20 scored items  (bar: 18/20: PASS)`
 10. `agreement: 18/20 scored items  (bar: 18/20: PASS)`
 
 **Issue analysis**
