@@ -55,10 +55,9 @@ happened; these entries are the toolkit's own timeline.
 All four entries are graded. Keep every heading below, and fill each
 one in the week it belongs to.
 
-**Unit 5: [one line on the tool work]**
+**Unit 5: Built and tuned a Python-first issue scout for bounded, testable contributions**
 
-[2-4 sentences: what you built (the scout, your strategy), what broke
-or fell short, what changed because of it.]
+I installed the issue-scout, wrote a fit profile around my Python and AI/data experience, and built a search strategy that ranked unassigned, recently updated issues before grading the top five with my rubric. The first scan exposed two weaknesses: a combined OR query returned no candidates, while fresh CUDA/HIP issues ranked highly even though specialized-hardware work did not fit my profile. I split the empty query into separate test, documentation, and machine-learning searches, then added a label-based filter for `backend:cuda` and `backend:hip`; the rubric itself stayed unchanged because its five repository-health, scope, claim, and AI-policy checks graded the candidates correctly.
 
 **Unit 6: [one line on the tool work]**
 
